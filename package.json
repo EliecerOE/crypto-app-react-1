@@ -1,5 +1,5 @@
 {
-  "homepage": "http://EliecerOE.github.io/crypto-app-react",
+  "homepage": "http://EliecerOE.github.io/crypto-app-react-1",
   "name": "crypto-app-react",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
